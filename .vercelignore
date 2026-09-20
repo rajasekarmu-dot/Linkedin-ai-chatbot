@@ -1,0 +1,7 @@
+node_modules
+node_modules.zip
+.vercel
+.git
+.env*
+supabase/.temp
+tests
